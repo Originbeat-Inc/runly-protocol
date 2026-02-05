@@ -124,9 +124,9 @@ Runly 定义了统一的报文格式，确保 SDK、执行引擎与专家终端�
 ##  🤝 参与贡献
 我们正在寻找对 业务 AI 化标准 感兴趣的贡献者。无论是优化 DSL 语法、开发多语言 SDK 还是贡献垂直行业的 SOP 模版，我们都虚位以待。
 
-详情请参阅 CONTRIBUTING.md。
+详情请参阅 [CONTRIBUTING.md](https://github.com/Originbeat-Inc/runly-protocol/blob/main/CONTRIBUTING.md)。
 
 ---
 ## 📄 开源协议
-本项目采用 MIT License 开源。
+本项目采用 [MIT License](https://github.com/Originbeat-Inc/runly-protocol/blob/main/LICENSE) 开源。
 
